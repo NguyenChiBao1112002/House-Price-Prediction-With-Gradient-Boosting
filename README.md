@@ -1,5 +1,7 @@
 # 🏡 House Price Prediction With Gradient Boosting
 
+## 📖 Information about Gradient Boosting: [Video](https://www.youtube.com/watch?v=3CC4N4z3GJc)
+
 ## 📊 Data Fields
 Here's the description of the fields in the dataset:
 
